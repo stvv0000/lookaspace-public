@@ -1,0 +1,15 @@
+<!-- Open Graph (Facebook, LinkedIn, Telegram, Discord, Viber та ін.) -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ваш-сайт.com/назва-сторінки.html">
+<meta property="og:title" content="Привіт, я lookass👋🏻">
+<meta property="og:description" content="Це мій простір, тут ти можеш знайти посилання на мої соціальні мережі та інше.">
+<meta property="og:image" content="https://raw.githubusercontent.com/stvv0000/lookaspace-public/main/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="look at the space">
+
+<!-- Twitter / X Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Привіт, я lookass👋🏻">
+<meta name="twitter:description" content="Це мій простір, тут ти можеш знайти посилання на мої соціальні мережі та інше.">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/stvv0000/lookaspace-public/main/og.png">
